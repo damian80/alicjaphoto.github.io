@@ -1,0 +1,33 @@
+* {
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}
+html {
+	background-color: #FFC0CB;
+	color:#555;
+	font-family: 'Lato', 'Arial', 'sans-serif';
+	font-size: 20px;
+	font-weight: 300;
+	text-rendering: optimizeLegibility;
+	text-align: center;
+	}
+footer {
+	margin-top: 13%;
+	margin-right: 10px;
+	text-align: center;
+}
+
+#one {
+	
+	margin-top: 10px;
+
+}
+#two {
+	transition: all 0.5s;
+}
+#two:hover {
+transform: scale(1.1);
+}
+
+
